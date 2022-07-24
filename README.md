@@ -20,8 +20,8 @@
 
 Прочитала двічі цю статтю. Cприймається важко, може  тому що немає практичної частини. Можна повернутися до статті у разі потреби у майбутньому. 
 
-![Cтаття_1](https://code.tutsplus.com/uk/tutorials/http-the-protocol-every-web-developer-must-know-part-1--net-31177)
-![Cтаття_2](https://code.tutsplus.com/uk/tutorials/http-the-protocol-every-web-developer-must-know-part-2--net-31155)
+[Cтаття_1](https://code.tutsplus.com/uk/tutorials/http-the-protocol-every-web-developer-must-know-part-1--net-31177)
+[Cтаття_2](https://code.tutsplus.com/uk/tutorials/http-the-protocol-every-web-developer-must-know-part-2--net-31155)
 
 
 
