@@ -43,10 +43,19 @@ _________
 
 Майже все, що було в чий частині я вже знала і застосовувала до цього. Єдиний момент - це позиціонування. Т.я. англійською мовою ця тема видалась важкою ( саме переклад), то додатково подивилась ютуб "Фрілансер по життю". Звичайно, знання англійської не вистачає для швидкого розуміння технічного тексту. треба піднягнути)
 
-![Прогрес курсу_Linux_1](task_html_css_intro/1.jpg)
-![Прогрес курсу_Linux_2](task_html_css_intro/2.jpg)
-![Прогрес курсу_Linux_3](task_html_css_intro/3.jpg)
-![Прогрес курсу_Linux_4](task_html_css_intro/4.jpg)
+![Прогрес курсу_Intro to HTML and CSS_1](task_html_css_intro/1.jpg)
+![Прогрес курсу_Intro to HTML and CSS_2](task_html_css_intro/2.jpg)
+![Прогрес курсу_Intro to HTML and CSS_3](task_html_css_intro/3.jpg)
+![Прогрес курсу_Intro to HTML and CSS_4](task_html_css_intro/4.jpg)
+__________
+
+## Responsive Web Design
+
+Для мене Flexbox і Grid Layout були повністю нові теми, але цікаві і які мають важливе практичне значення. 
+Ігри Flexbox Froggy і Grid Garden пояснюють для новачків, як я, на простих прикладах, де будуть розміщуватися елементи в залежності від різних властивостей. Буду використовувати ці знання 100%. 
+
+![Прогрес курсу_Responsive Web Design_1](task_responsive_web_design/1.jpg)
+![Прогрес курсу_Responsive Web Design_2](task_responsive_web_design/2.jpg)
 
 
 
