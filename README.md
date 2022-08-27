@@ -56,6 +56,15 @@ __________
 
 ![Прогрес курсу_Responsive Web Design_1](task_responsive_web_design/1.jpg)
 ![Прогрес курсу_Responsive Web Design_2](task_responsive_web_design/2.jpg)
+___________
+
+## HTML & CSS Practice
+
+This is my first html&css practice. Honestly It was hard for me. I learned how to use checkboxes to make elements disappear and appear, used flexbox, deepened my knowledge of pseudo-selectors. It was an incredible experience. Thanks  mentors and other students who helped.
+
+[demo](https://annymax.github.io/HTML-CSS-Practice/ "demo")
+ 
+[code base](https://github.com/annymax/HTML-CSS-Practice "code base")
 
 
 
