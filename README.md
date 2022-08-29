@@ -66,10 +66,17 @@ This is my first html&css practice. Honestly It was hard for me. I learned how t
  
 [code base](https://github.com/annymax/HTML-CSS-Practice "code base")
 
+___________
 
+## JS Basics
 
+The freeCodeCamp exercises were very useful. All modules were either repetition or easy to understand, except Algorithm Scripting Challenges. These tasks could not be solved without prompts. I will use methods like replace, concat, indexOf, slice, split, etc.
 
+![Прогрес курсу_JS Basics_1](task_js_basics/1.png)
+![Прогрес курсу_JS Basics_2](task_js_basics/2.png)
 
-
-
-
+![Прогрес курсу_JS Basics_3](task_js_basics/3.png)
+![Прогрес курсу_JS Basics_4](task_js_basics/4.png)
+![Прогрес курсу_JS Basics_5](task_js_basics/5.png)
+![Прогрес курсу_JS Basics_6](task_js_basics/6.png)
+![Прогрес курсу_JS Basics_7](task_js_basics/7.png)
